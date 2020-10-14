@@ -1,0 +1,43 @@
+_repo: The-Flying-Boys-to-the-Rescue_63365
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Prittie, Edwin John
+    aliases:
+    - Prettie, Edwin J.
+    - Prittie, Edwin J. (Edwin John)
+    gutenberg_agent_id: '8171'
+    url: http://www.gutenberg.org/2009/agents/8171
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, Edward S. (Edward Sylvester)
+    - Ellis, E. S. (Edward Sylvester)
+    - Randolph, Geoffrey
+    - LaSalle, Charles E.
+    - Jayne, R. H.
+    - Hawthorne, R. M.
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+    wikipedia: https://en.wikipedia.org/wiki/Edward_S._Ellis
+description: ''
+gutenberg_issued: '2020-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63365'
+  lccn: '11013140'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Flying boys series
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Air pilots -- Juvenile fiction'
+- !lcsh 'Airplanes -- Juvenile fiction'
+- GITenberg
+title: The Flying Boys to the Rescue
+url: http://www.gutenberg.org/ebooks/63365
