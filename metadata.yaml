@@ -8,6 +8,9 @@ contributor:
     - Prittie, Edwin J. (Edwin John)
     gutenberg_agent_id: '8171'
     url: http://www.gutenberg.org/2009/agents/8171
+covers:
+- cover_type: archival
+  image_path: 63365-h/images/cover.jpg
 creator:
   author:
     agent_name: Ellis, Edward Sylvester
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2569
     wikipedia: https://en.wikipedia.org/wiki/Edward_S._Ellis
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63365#The-Flying-Boys-to-the-Rescue
 gutenberg_issued: '2020-10-04'
 gutenberg_type: Text
 identifiers:
